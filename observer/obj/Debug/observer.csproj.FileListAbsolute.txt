@@ -1,0 +1,7 @@
+C:\Users\danko\RiderProjects\matrix-sorting\observer\bin\Debug\observer.exe
+C:\Users\danko\RiderProjects\matrix-sorting\observer\bin\Debug\observer.pdb
+C:\Users\danko\RiderProjects\matrix-sorting\observer\obj\Debug\observer.csproj.AssemblyReference.cache
+C:\Users\danko\RiderProjects\matrix-sorting\observer\obj\Debug\observer.csproj.SuggestedBindingRedirects.cache
+C:\Users\danko\RiderProjects\matrix-sorting\observer\obj\Debug\observer.csproj.CoreCompileInputs.cache
+C:\Users\danko\RiderProjects\matrix-sorting\observer\obj\Debug\observer.exe
+C:\Users\danko\RiderProjects\matrix-sorting\observer\obj\Debug\observer.pdb

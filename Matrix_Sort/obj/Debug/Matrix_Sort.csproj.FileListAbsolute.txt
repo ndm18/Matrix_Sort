@@ -1,0 +1,14 @@
+C:\Users\danko\RiderProjects\Matrix_Sort\Matrix_Sort\bin\Debug\Matrix_Sort.exe
+C:\Users\danko\RiderProjects\Matrix_Sort\Matrix_Sort\bin\Debug\Matrix_Sort.pdb
+C:\Users\danko\RiderProjects\Matrix_Sort\Matrix_Sort\obj\Debug\Matrix_Sort.csproj.AssemblyReference.cache
+C:\Users\danko\RiderProjects\Matrix_Sort\Matrix_Sort\obj\Debug\Matrix_Sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\danko\RiderProjects\Matrix_Sort\Matrix_Sort\obj\Debug\Matrix_Sort.csproj.CoreCompileInputs.cache
+C:\Users\danko\RiderProjects\Matrix_Sort\Matrix_Sort\obj\Debug\Matrix_Sort.exe
+C:\Users\danko\RiderProjects\Matrix_Sort\Matrix_Sort\obj\Debug\Matrix_Sort.pdb
+C:\Users\danko\RiderProjects\matrix-sorting\Matrix_Sort\bin\Debug\Matrix_Sort.exe
+C:\Users\danko\RiderProjects\matrix-sorting\Matrix_Sort\bin\Debug\Matrix_Sort.pdb
+C:\Users\danko\RiderProjects\matrix-sorting\Matrix_Sort\obj\Debug\Matrix_Sort.csproj.AssemblyReference.cache
+C:\Users\danko\RiderProjects\matrix-sorting\Matrix_Sort\obj\Debug\Matrix_Sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\danko\RiderProjects\matrix-sorting\Matrix_Sort\obj\Debug\Matrix_Sort.csproj.CoreCompileInputs.cache
+C:\Users\danko\RiderProjects\matrix-sorting\Matrix_Sort\obj\Debug\Matrix_Sort.exe
+C:\Users\danko\RiderProjects\matrix-sorting\Matrix_Sort\obj\Debug\Matrix_Sort.pdb
